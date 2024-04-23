@@ -10,6 +10,8 @@ Created on Mon Apr 22 11:25:36 2024
 import numpy as np
 import matplotlib.pyplot as plt 
 
+# TESTING COMMENTS
+
 #constants
 G=6.6743e-11
 AU=149.597871e9 # 1 astronomical unit (AU) is the mean distance between su
